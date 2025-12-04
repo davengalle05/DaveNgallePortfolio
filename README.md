@@ -1,4 +1,4 @@
-<h1>Hi, I'm Dave, an <a href="[https://linkedin.com/in/evan-yearwood/]">Cybersecurity Student @ Yext.</a></h1> 
+<h1>Hi, I'm Evan, an <a href="https://www.linkedin.com/in/dave-ngalle-841782332/">Technical Support Specialist @ Yext.</a></h1> 
 
 <h2> Tier 1 - IAM Projects (Okta / Microsoft Azure):</h2>
 <ul>
