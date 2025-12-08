@@ -11,16 +11,16 @@
     <b><span style="color:red;">(Not Started)</span></b> <code>▒▒▒▒▒▒▒▒▒▒ 0%</code>
   </li>
   <li>
-    Access Review & Compliance Reporting<br>
-    <b><span style="color:red;">(Not Started)</span></b> <code>▒▒▒▒▒▒▒▒▒▒ 0%</code>
+    SOC PCAP Analysis (WireShark)<br>
+    <b><span style="color:red;">(Completed)</span></b> <code>██████████ 100%</code>
   </li>
   <li>
-    Directory Synchronization & Federation<br>
-    <b><span style="color:red;">(Not Started)</span></b> <code>▒▒▒▒▒▒▒▒▒▒ 0%</code>
+   Hands-On Networking (pfSense + VLANs + Firewall Rules)<br>
+    <b><span style="color:red;">(Completed)</span></b> <code>██████████ 100%</code>
   </li>
   <li>
-    API Fundamentals & Provisioning<br>
-    <b><span style="color:red;">(Not Started)</span></b> <code>▒▒▒▒▒▒▒▒▒▒ 0%</code>
+    Building a Scalable AWS Architecture<br>
+    <b><span style="color:red;">(Completed)</span></b> <code>██████████ 100%</code>
   </li>
 </ul>
 
