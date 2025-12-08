@@ -19,7 +19,7 @@
     <b><span style="color:red;">(Completed)</span></b> <code>██████████ 100%</code>
   </li>
   <li>
-    Building a Scalable AWS Architecture<br>
+    Launch EC2 & Secure with IAM Policies<br>
     <b><span style="color:red;">(Completed)</span></b> <code>██████████ 100%</code>
   </li>
 </ul>
