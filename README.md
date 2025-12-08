@@ -1,28 +1,7 @@
 <h1>Hi, I'm Dave Ngalle, an <a href="https://www.linkedin.com/in/dave-ngalle-841782332/">Cybersecurity Student @ Kennesaw State University</a></h1> 
 
 <h2> Tier 1 - IAM Projects (Okta / Microsoft Azure):</h2>
-<ul>
-  <li>
-    Identity Lifecycle Management (Joiner–Mover–Leaver)<br>
-    <b><span style="color:red;">(Not Started)</span></b> <code>▒▒▒▒▒▒▒▒▒▒ 0%</code>
-  </li>
-  <li>
-    MFA & SSO Implementation<br>
-    <b><span style="color:red;">(Not Started)</span></b> <code>▒▒▒▒▒▒▒▒▒▒ 0%</code>
-  </li>
-  <li>
-    Access Review & Compliance Reporting<br>
-    <b><span style="color:red;">(Not Started)</span></b> <code>▒▒▒▒▒▒▒▒▒▒ 0%</code>
-  </li>
-  <li>
-    Directory Synchronization & Federation<br>
-    <b><span style="color:red;">(Not Started)</span></b> <code>▒▒▒▒▒▒▒▒▒▒ 0%</code>
-  </li>
-  <li>
-    API Fundamentals & Provisioning<br>
-    <b><span style="color:red;">(Not Started)</span></b> <code>▒▒▒▒▒▒▒▒▒▒ 0%</code>
-  </li>
-</ul>
+
 
 <h3>Relevant Certifications:</h3>
 
