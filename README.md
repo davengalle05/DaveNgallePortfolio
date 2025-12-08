@@ -26,37 +26,6 @@
 
 <h3>Relevant Certifications:</h3>
 
-<ul>
-  <li>
-    MS-900: Microsoft 365 Fundamentals<br>
-    <b><span style="color:orange;">(Started)</span></b> <code>█████████▒ 90%</code>
-  </li>
-  <li>
-    AZ-900: Azure Fundamentals<br>
-    <b><span style="color:red;">(Started)</span></b> <code>█▒▒▒▒▒▒▒▒▒ 10%</code>
-  </li>
-  <li>
-    SC-900: Security, Compliance, and Identity Fundamentals<br>
-    <b><span style="color:red;">(Not Started)</span></b> <code>▒▒▒▒▒▒▒▒▒▒ 0%</code>
-  </li>
-  <li>
-    SC-300: Identity and Access Administrator Associate<br>
-    <b><span style="color:red;">(Not Started)</span></b> <code>▒▒▒▒▒▒▒▒▒▒ 0%</code>
-  </li>
-  <li>
-    Postman API Fundamentals<br>
-    <b><span style="color:red;">(Not Started)</span></b> <code>▒▒▒▒▒▒▒▒▒▒ 0%</code>
-  </li>
-  <li>
-    Okta Certified Professional<br>
-    <b><span style="color:red;">(Not Started)</span></b> <code>▒▒▒▒▒▒▒▒▒▒ 0%</code>
-  </li>
-  <li>
-    CompTIA Security+<br>
-    <b><span style="color:red;">(Not Started)</span></b> <code>▒▒▒▒▒▒▒▒▒▒ 0%</code>
-  </li>
-</ul>
-
 
 <h2> IT Support Projects:</h2>
 
