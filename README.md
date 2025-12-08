@@ -4,7 +4,7 @@
 <ul>
   <li>
     SIEM & Log Analysis (Wazuh / Splunk / Elastic)<br>
-    <b><span style="color:red;">(Almost Completed)</span></b> <code>█████▒▒▒▒ 50%</code>
+    <b><span style="color:red;">(Incomplete)</span></b> <code>█████▒▒▒▒ 50%</code>
   </li>
   <li>
     Windows Server Build (Active Directory + DNS + DHCP)<br>
