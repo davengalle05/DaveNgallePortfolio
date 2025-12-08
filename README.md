@@ -1,7 +1,28 @@
 <h1>Hi, I'm Dave Ngalle, an <a href="https://www.linkedin.com/in/dave-ngalle-841782332/">Cybersecurity Student @ Kennesaw State University</a></h1> 
 
 <h2> Tier 1 - SOC Analyst / Cybersecurity Projects (Beginner–Intermediate):</h2>
-
+<ul>
+  <li>
+    SIEM & Log Analysis (Wazuh / Splunk / Elastic)<br>
+    <b><span style="color:red;">(Not Started)</span></b> <code>█████▒▒▒▒ 50%</code>
+  </li>
+  <li>
+    Windows Server Build (Active Directory + DNS + DHCP)<br>
+    <b><span style="color:red;">(Not Started)</span></b> <code>▒▒▒▒▒▒▒▒▒▒ 0%</code>
+  </li>
+  <li>
+    Access Review & Compliance Reporting<br>
+    <b><span style="color:red;">(Not Started)</span></b> <code>▒▒▒▒▒▒▒▒▒▒ 0%</code>
+  </li>
+  <li>
+    Directory Synchronization & Federation<br>
+    <b><span style="color:red;">(Not Started)</span></b> <code>▒▒▒▒▒▒▒▒▒▒ 0%</code>
+  </li>
+  <li>
+    API Fundamentals & Provisioning<br>
+    <b><span style="color:red;">(Not Started)</span></b> <code>▒▒▒▒▒▒▒▒▒▒ 0%</code>
+  </li>
+</ul>
 
 <h3>Relevant Certifications:</h3>
 
