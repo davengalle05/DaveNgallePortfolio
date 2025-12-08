@@ -29,10 +29,7 @@
 
 <h2> IT Support Projects:</h2>
 
-- <b>osTicket (Building a Help Desk Ticketing System)</b>
-  - [osTicket: Prerequisites and Installation](https://github.com/EvanHYearwood/osticket-prereqs) (Video Included)
-  - [osTicket: Post-Installation Configuration](https://github.com/EvanHYearwood/post-install-config) (Video Included)
-  - [osTicket: Ticket Lifecycle & SLAs](https://github.com/EvanHYearwood/ticket-lifecycle) (Video Included)
+- <b>
  
 
 - <b>Microsoft Azure (Active Directory / DNS Configuration)</b>
