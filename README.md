@@ -4,11 +4,11 @@
 <ul>
   <li>
     SIEM & Log Analysis (Wazuh / Splunk / Elastic)<br>
-    <b><span style="color:red;">(Not Started)</span></b> <code>█████▒▒▒▒ 50%</code>
+    <b><span style="color:red;">(Almost Completed)</span></b> <code>█████▒▒▒▒ 50%</code>
   </li>
   <li>
     Windows Server Build (Active Directory + DNS + DHCP)<br>
-    <b><span style="color:red;">(Not Started)</span></b> <code>▒▒▒▒▒▒▒▒▒▒ 0%</code>
+    <b><span style="color:red;">(Completed)</span></b> <code>██████████ 100%</code>
   </li>
   <li>
     SOC PCAP Analysis (WireShark)<br>
