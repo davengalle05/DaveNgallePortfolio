@@ -29,8 +29,7 @@
 
 <h2> IT Support Projects:</h2>
 
-- <b>
- 
+- <b>Active Directory – Windows Server 2019 Domain Environment
 
 - <b>Microsoft Azure (Active Directory / DNS Configuration)</b>
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/EvanHYearwood/configure-ad) (Video Included)
