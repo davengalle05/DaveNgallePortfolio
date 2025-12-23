@@ -39,7 +39,7 @@
   - [VLANs, Firewall Rules & Network Segmentation](https://github.com/davengalle05/pfSense-VLANs-and-Firewall-Rules/blob/main/README.md)
   - [Cyber Range Testing (Kali, Metasploitable, Chronos)](https://github.com/davengalle05/pfSense-Cyber-Range-Testing/blob/main/README.md)
 
-<h2>Google (Coursera) Projects:</h2>
+<h2>Cloud Based Projects:</h2>
  
 
 
