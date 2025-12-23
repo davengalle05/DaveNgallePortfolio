@@ -41,20 +41,11 @@
 
 <h2>Google (Coursera) Projects:</h2>
  
-- <b>Assets, Risks, Audit, Mitigation Strategies and Impact Analysis</b>
-  - [Internal Security Audit - Botium Toys](https://github.com/EvanHYearwood/Security-Audit-Botium-Toys)
 
-- <b>Coding Languages</b>
-  - [Simple Python Algorithm for User Access Management](https://github.com/EvanHYearwood/python-user-access-management)
-  - [SQL-Driven Security Investigation: Analyzing Employee Login Patterns and Machine Access](https://github.com/EvanHYearwood/sql-investigation/)
-  - [Linux - Enforcing "Least Privilege" Security: Managing File Permissions](https://github.com/EvanHYearwood/linux-file-permisions/)
 
 <h2>Certifications:</h2>
 <ul>
-  <li><b>Google Cyber Security Professional Certification</b> </li>
-  <li><b>Security Blue Team - Introduction to Network Analysis</b> (Proficient in Wireshark/TCPdump)</li>
-  <li><b>HackTheBox Academy - Intro to Network Traffic Analysis</li>
-  <li><b>CourseCareers IT Professional</b></li>
+  
 </ul>
 
 
@@ -63,7 +54,7 @@
 
 <h3>Socials:</h3>
 
-<a href="https://linkedin.com/in/evan-yearwood/">
+<a href="https://www.linkedin.com/in/dave-ngalle-841782332/">
   <img align="left" alt="Evan | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 
