@@ -35,7 +35,7 @@
   - [Active Directory – User Management, Group Policy & Testing](https://github.com/davengalle05/Active-Directory-Management-and-Testing/blob/main/README.md)
 
 - <b>Network Security Lab (pfSense / VLANs / Firewall Rules)</b>
-  - [Network & Firewall Installation](https://github.com/davengalle05/pfSense-Prerequisites-and-Installation/blob/main/README.md) (Video Included)
+  - [Network & Firewall Installation](https://github.com/davengalle05/pfSense-Prerequisites-and-Installation/blob/main/README.md) 
   - [VLANs, Firewall Rules & Network Segmentation](https://github.com/davengalle05/pfSense-VLANs-and-Firewall-Rules/blob/main/README.md)
   - [Cyber Range Testing (Kali, Metasploitable, Chronos)](https://github.com/davengalle05/pfSense-Cyber-Range-Testing/blob/main/README.md)
 
