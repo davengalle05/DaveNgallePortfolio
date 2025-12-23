@@ -34,10 +34,10 @@
   - [Active Directory – Post Installation and Configuration](https://github.com/davengalle05/AD-Post-Installation-Configuration)
   - [Active Directory – User Management, Group Policy & Testing](https://github.com/davengalle05/Active-Directory-Management-and-Testing/blob/main/README.md)
 
-- <b>Microsoft Azure (Active Directory / DNS Configuration)</b>
-  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/EvanHYearwood/configure-ad) (Video Included)
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/EvanHYearwood/azure-network-protocols)
-  - [Basic DNS Configuration & Testing](https://github.com/EvanHYearwood/dns-config)
+- <b>Network Security Lab (pfSense / VLANs / Firewall Rules)</b>
+  - [Network & Firewall Installation](https://github.com/davengalle05/pfSense-Prerequisites-and-Installation/blob/main/README.md) (Video Included)
+  - [VLANs, Firewall Rules & Network Segmentation](https://github.com/davengalle05/pfSense-VLANs-and-Firewall-Rules/blob/main/README.md)
+  - [Cyber Range Testing (Kali, Metasploitable, Chronos)](https://github.com/davengalle05/pfSense-Cyber-Range-Testing/blob/main/README.md)
 
 <h2>Google (Coursera) Projects:</h2>
  
